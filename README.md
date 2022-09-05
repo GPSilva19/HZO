@@ -1,11 +1,10 @@
 # HZO
 
-
  Tem coisas a fazer ( se eu ñ esquecer ) outras paginas à adicionar
 
-- estudos do Flex Grid Main -
+ Feito com HTML, CSS e JAVASCRIPT
+ estudos do Flex Grid Main
 
-----------------------------------------------------------------------
 ## Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
@@ -109,4 +108,3 @@ Largura máxima do conteúdo principal: `1120px`
 Largura máxima de um cartão desktop: `256px`
 
 Altura mínima de um cartão: `320px`
-----------------------------------------------------------------------
