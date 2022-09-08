@@ -1,9 +1,14 @@
 # HZO
 
- Essa primeira pagina foi criado junto ao professor, Tem mais coisas a fazer ( se eu ñ esquecer ) outras paginas à adicionar.
+ > Essa primeira pagina foi criado junto ao professor, Tem mais coisas a fazer **( se eu ñ esquecer )** outras paginas à adicionar.
 
- Feito com HTML, CSS e JAVASCRIPT.
- estudos do Flex Grid Main.
+ Feito com **HTML**, **CSS** e **JAVASCRIPT**.
+ 
+ 
+ ```
+ Estudos do Flex Grid Main.
+```
+
 
 ## Guia de estilos
 
