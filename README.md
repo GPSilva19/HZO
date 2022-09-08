@@ -1,8 +1,8 @@
 # HZO
 
- > Essa primeira pagina foi criado junto ao professor, Tem mais coisas a fazer **( se eu ñ esquecer )** outras paginas à adicionar.
+Essa primeira pagina foi criado junto ao professor, Tem mais coisas a fazer **( se eu ñ esquecer )** outras paginas à adicionar.
 
- Feito com **HTML**, **CSS** e **JAVASCRIPT**.
+>Feito com **HTML**, **CSS** e **JAVASCRIPT**.
  
  
  ```
